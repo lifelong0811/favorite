@@ -1,0 +1,59 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": [{
+            "id": "device",
+            "subtitle": "我的设备",
+            "nav": [{
+                    "name": "Portainer华为",
+                    "link": "http://wangleijie.cn:9000/"
+                },
+                {
+                    "name": "Portainer本地",
+                    "link": "http://wangleijie.cn:29000"
+                },
+                {
+                    "name": "FRP Client",
+                    "link": "http://wangleijie.cn:27400/"
+                },
+                {
+                    "name": "Kibana",
+                    "link": "http://wangleijie.cn:25601/"
+                },
+                {
+                    "name": "ES集群管理",
+                    "link": "http://wangleijie.cn:39000/"
+                }
+            ]
+        },
+        {
+            "id": "learn",
+            "subtitle": "学习",
+            "nav": [{
+                    "name": "螺丝钉研报",
+                    "link": "https://xueqiu.com/u/3079173340/"
+                },
+                {
+                    "name": "github重构",
+                    "link": "https://github.com/phodal/migration/"
+                },
+                {
+                    "name": "一些架构图",
+                    "link": "https://github.com/toutiaoio/"
+                },
+                {
+                    "name": "五分钟算法",
+                    "link": "https://www.cxyxiaowu.com/"
+                }
+            ]
+        },
+        {
+            "id": "famous",
+            "subtitle": "名人关注",
+            "nav": [{
+                "name": "香帅（唐涯）",
+                "link": "https://www.chainnews.com/u/130350048600.htm"
+            }]
+        }
+    ]
+}

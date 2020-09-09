@@ -1,0 +1,2 @@
+Agent.check = function() { if (this.options('make_event')) { this.createEvent({ 'message': 'I made an event!' }); var callCount = this.memory('callCount') || 0; this.memory('callCount', callCount + 1); } }; Agent.receive = function() { var events = this.incomingEvents();
+for(var i = 0; i < events.length; i++) { this.createEvent({ 'message': 'I got an event!', 'event_was': events[i].payload }); } }

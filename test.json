@@ -1,0 +1,152 @@
+{
+    "ordermapping": {
+        "bizCode": "nib.food.paybill",
+        "bizOrderId": "200107679007041",
+        "bizSpaceId": 2,
+        "masterTraffic": "new",
+        "orderId": "4800841615889060219"
+    },
+    "payment": [{
+        "buyerId": "349536427",
+        "orderId": "4800841615889060219",
+        "orderPaymentId": "4800841615889060219MDF31",
+        "payBatchNo": 1,
+        "payChannel": 1,
+        "paymentId": "1F1804KMDF303791",
+        "status": 3,
+        "totalAmount": "10900",
+        "extraData": {
+            "TRADE_ORDER_MRECHANTNO": "{"
+            iphPayMerchantNo ":"
+            1020400002 ","
+            subIphPayMerchantName ":"
+            眉州东坡餐饮管理（ 北京） 有限公司 ","
+            subIphPayMerchantNo ":"
+            12000027600987 "}",
+            "TRADE_ORDER_BIZ_CODE": "nib.food.paybill"
+        },
+        "orderMerchantNoDTO": {
+            "iphPayMerchantNo": "1020400002",
+            "subIphPayMerchantName": "眉州东坡餐饮管理（北京）有限公司",
+            "subIphPayMerchantNo": "12000027600987"
+        },
+        "orderPaymentDetailList": [{
+                "amount": "500",
+                "amountDetailType": 15,
+                "amountPayType": 1,
+                "amountType": 51,
+                "buyerId": "349536427",
+                "consumeItemAmountSplitDTOList": null,
+                "count": 1,
+                "iphPayMerchantNo": null,
+                "itemAmountSplitMode": 1,
+                "lockStatus": null,
+                "merchantSubAmount": "500",
+                "orderId": "4800841615889060219",
+                "orderPaymentDetailId": "4800841615889060219MDF311K01",
+                "orderPaymentId": "4800841615889060219MDF31",
+                "outerId": "4_2266089",
+                "paymentDetailId": "1F1804KMDF3037911K02",
+                "paymentDetailOriginTrace": null,
+                "platformSubAmount": "0",
+                "receiptId": "576460752344849056",
+                "restMerchantAmount": "0",
+                "restPlatformAmount": "0",
+                "status": 3,
+                "subIphPayMerchantNo": null,
+                "successTime": "2020-01-07 11:53:08",
+                "totalRestAmount": "0",
+                "extData": {
+                    "PROMO": "{"
+                    amount ":0,"
+                    promoToolType ":0,"
+                    promotionId ":"
+                    4 _2266089 ","
+                    promotionSubType ":15,"
+                    promotionType ":1}",
+                    "PROMOTION_CHECK_DETAIL": "{"
+                    deductionAmount ":"
+                    500 ","
+                    deductionIsEnable ":true,"
+                    deductionMinConsumption ":"
+                    10000 ","
+                    deductionPandora ":{"
+                    pandoraDiscountType ":0,"
+                    pandoraPromotionType ":3,"
+                    pandoraTemporaryCommissionRate ":"
+                    0.0 "},"
+                    deductionReduceTimes ":4,"
+                    deductionRemainStock ":"
+                    0 ","
+                    deductionUserMaxBuyTimes ":0,"
+                    deductionUserRemainBuyTimes ":0,"
+                    maitonDiscountRatio ":"
+                    0.0 ","
+                    maitonDiscountType ":1,"
+                    maitonLimitType ":1,"
+                    originProxyApiPandoraJSON ":" {\\ "costType\\": 0, \\ "discountType\\": 0, \\ "mobDisplayPrice\\": 0, \\ "pandoraBearerInfoList\\": [], \\ "pandoraBearerInfoListIterator\\": [], \\ "pandoraBearerInfoListSize\\": 0, \\ "promotionType\\": 0, \\ "setActiveName\\": false, \\ "setCostType\\": false, \\ "setDetailShow\\": false, \\ "setDiscountType\\": false, \\ "setListShow\\": false, \\ "setMobDisplayPrice\\": false, \\ "setMobOrderShowTitle\\": false, \\ "setOrderShow\\": false, \\ "setPandoraBearerInfoList\\": true, \\ "setPromotionType\\": false, \\ "setTag\\": false }
+                    ","
+                    pandoraBearerInfoList ":[]}",
+                    "USE_STAGE_PREPAY": "0",
+                    "PROMOTION_ACTIVITY_ID": "4_154675",
+                    "PROMOTION_ACTIVITY_NAME": "团结湖/六里屯/长虹桥"
+                },
+                "itemAmountSplitDTOList": [{
+                    "iphPayMerchantNo": null,
+                    "merchantSubAmount": "500",
+                    "orderId": "4800841615889060219",
+                    "orderItemCount": "1",
+                    "orderItemId": "288230404798531963",
+                    "partnerId": null,
+                    "platformSubAmount": "0",
+                    "subIphPayMerchantNo": null,
+                    "totalAmount": "500",
+                    "reduceDetail": {
+                        "cashPayBackChannel": null,
+                        "cashPayBackMoney": null,
+                        "cashPayBackOpportunity": null,
+                        "coupon": null,
+                        "giftCouponDTOList": null,
+                        "giftCouponOpportunity": null,
+                        "groupReduceAmount": null,
+                        "pointReduceAmount": null,
+                        "reductionAmount": null,
+                        "reductionMinConsumption": null
+                    }
+                }]
+            },
+            {
+                "amount": "10400",
+                "amountDetailType": 1100,
+                "amountPayType": 1,
+                "amountType": 1,
+                "buyerId": "349536427",
+                "consumeItemAmountSplitDTOList": null,
+                "count": 0,
+                "iphPayMerchantNo": "1020400002",
+                "itemAmountSplitMode": 1,
+                "lockStatus": null,
+                "merchantSubAmount": "0",
+                "orderId": "4800841615889060219",
+                "orderPaymentDetailId": "4800841615889060219MDF310102",
+                "orderPaymentId": "4800841615889060219MDF31",
+                "outerId": "",
+                "paymentDetailId": "1F1804KMDF3037910103",
+                "paymentDetailOriginTrace": null,
+                "platformSubAmount": "0",
+                "receiptId": "20010710100000000002722989651109",
+                "restMerchantAmount": "0",
+                "restPlatformAmount": "0",
+                "status": 3,
+                "subIphPayMerchantNo": "12000027600987",
+                "successTime": "2020-01-07 11:53:08",
+                "totalRestAmount": "0",
+                "extData": {
+                    "USE_STAGE_PREPAY": "0",
+                    "SUB_SELLER_NAME": "眉州东坡餐饮管理（北京）有限公司"
+                },
+                "itemAmountSplitDTOList": []
+            }
+        ]
+    }]
+}

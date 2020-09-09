@@ -1,0 +1,574 @@
+{
+    "ordermapping": {
+        "bizCode": "nib.food.paybill",
+        "bizOrderId": "200107679007041",
+        "bizSpaceId": 2,
+        "masterTraffic": "new",
+        "orderId": "4800841615889060219"
+    },
+    "order": {
+        "addTime": "2020-01-07 11:52:51",
+        "bizCode": "nib.food.paybill",
+        "commentStatus": 0,
+        "createTime": "2020-01-07 11:52:51",
+        "customerId": 1000154123,
+        "expiredTime": null,
+        "failReason": null,
+        "hide": false,
+        "mobileNo": "13141383403",
+        "orderId": "4800841615889060219",
+        "orderVersion": 0,
+        "outBizOrderId": "HEBK471YXK75GBWHU",
+        "poiId": 41169004,
+        "status": 2,
+        "subStatus": 50,
+        "totalAmount": "10900",
+        "updateTime": "2020-01-07 11:58:57",
+        "buyer": {
+            "buyerId": "349536427",
+            "dpUserId": 164691524,
+            "mtUserId": 349536427,
+            "openId": null,
+            "shopAccountId": null
+        },
+        "environment": {
+            "channel": 2,
+            "locationCityId": null,
+            "mtCityId": 1,
+            "platform": 102,
+            "userAgent": null,
+            "userIp": "124.64.17.175",
+            "utmCampaign": null,
+            "utmContent": "15972679fffce6e0144a5998ca090bbac8f2cb98",
+            "utmMedium": "25",
+            "utmSource": "appstore",
+            "utmTerm": "10.23.10",
+            "uuid": "15972679fffce6e0144a5998ca090bbac8f2cb98",
+            "version": "10.23.10",
+            "extData": {
+                "pay_platform": "20020400",
+                "latitude": "39.92832756604992",
+                "maiton_platform": "10",
+                "pre_operation_type": "0",
+                "longitude": "116.46505015913067"
+            }
+        },
+        "extraFields": {
+            "order_sub_type": "10",
+            "AMOUNT_SPLIT_TIMING": "0",
+            "SIGN_SUBJECT": "厦门三快在线科技有限公司",
+            "MT_DP_COMPANY_CODE": "51",
+            "maiton_coupon": "[]",
+            "serial_number": "80079007041",
+            "SELL_TYPE": "5682502",
+            "SETTLE_LEVEL": "CONSUME",
+            "ORDER_TRAFFIC_MARK": "real",
+            "OPEN_INVOICE_PARTY": "COMMISSION_MODE",
+            "BUSINESS_CLEARING_INFO": "{"
+            serialNumber ":"
+            80079007041 "}",
+            "user_type": "0",
+            "dp_shop_id": "508781",
+            "extra_flag": "0",
+            "verify_status": "1",
+            "fail_type": "0",
+            "PROMOTION_BIZ_PARAM_DURING_PRICE_FIXING": "{"
+            commonPromotionRuleProperties ":[{"
+            promotionRulePropertyCode ":10020,"
+            promotionRulePropertyValue ":"
+            0 "},{"
+            promotionRulePropertyCode ":10107,"
+            promotionRulePropertyValue ":"
+            10900 "},{"
+            promotionRulePropertyCode ":10022,"
+            promotionRulePropertyValue ":"
+            10900 "},{"
+            promotionRulePropertyCode ":1008,"
+            promotionRulePropertyValue ":"
+            41169004 "},{"
+            promotionRulePropertyCode ":21,"
+            promotionRulePropertyValue ":"
+            1578369171199 "},{"
+            promotionRulePropertyCode ":11,"
+            promotionRulePropertyValue ":"
+            1 "},{"
+            promotionRulePropertyCode ":1302,"
+            promotionRulePropertyValue ":"
+            false "}]}"
+        },
+        "orderMapping": {
+            "bizCode": "nib.food.paybill",
+            "bizOrderId": "200107679007041",
+            "bizSpaceId": 2,
+            "masterTraffic": "new",
+            "orderId": "4800841615889060219"
+        },
+        "orderItemList": [{
+            "commissionRate": "0.006",
+            "count": "1",
+            "endTime": "2020-01-07 11:52:51",
+            "extendInfo": null,
+            "fingerprint": "A0-a47a64a3a7623307b09ebf9b589b102e",
+            "orderItemId": "288230404798531963",
+            "packageId": 0,
+            "productId": 609132771,
+            "productSource": 0,
+            "sellPrice": "10900",
+            "settlePrice": "0",
+            "skuId": 616442694,
+            "snapshotId": "-1894708829199593640",
+            "startTime": "2020-01-07 11:52:51",
+            "totalPrice": "10900",
+            "useDate": "2020-01-07 11:52:51",
+            "basicsInfo": {
+                "bdId": 1012398,
+                "category": 1401,
+                "packageId": 0,
+                "productId": 609132771,
+                "productName": "团结湖/六里屯/长虹桥",
+                "skuExtendInfo": null,
+                "source": 1,
+                "tradeType": 1,
+                "packageInfo": {
+                    "productMetaModelData": "{"
+                    attributes ":[{"
+                    attrName ":"
+                    businessUnit ","
+                    attrValue ":"
+                    0 "},{"
+                    attrName ":"
+                    buCode ","
+                    attrValue ":"
+                    12040 "},{"
+                    attrName ":"
+                    mallPoiId ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    endTimeType ","
+                    attrValue ":"
+                    DT "},{"
+                    attrName ":"
+                    sourceDpPoiIds ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    endTimeOffsetMonth ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    sourceDealId ","
+                    attrValue ":"
+                    0 "},{"
+                    attrName ":"
+                    isSupportSpeedBill ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    sourceDpCouponOfferId ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    endTime ","
+                    attrValue ":"
+                    2020 - 01 - 28 "},{"
+                    attrName ":"
+                    endTimeOffsetDay ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    sourceDpSolutionId ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    productType ","
+                    attrValue ":"
+                    10 "}]}"
+                },
+                "productInfo": {
+                    "productMetaModelData": "{"
+                    attributes ":[{"
+                    attrName ":"
+                    businessUnit ","
+                    attrValue ":"
+                    0 "},{"
+                    attrName ":"
+                    buCode ","
+                    attrValue ":"
+                    12040 "},{"
+                    attrName ":"
+                    mallPoiId ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    endTimeType ","
+                    attrValue ":"
+                    DT "},{"
+                    attrName ":"
+                    sourceDpPoiIds ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    endTimeOffsetMonth ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    sourceDealId ","
+                    attrValue ":"
+                    0 "},{"
+                    attrName ":"
+                    isSupportSpeedBill ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    sourceDpCouponOfferId ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    endTime ","
+                    attrValue ":"
+                    2020 - 01 - 28 "},{"
+                    attrName ":"
+                    endTimeOffsetDay ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    sourceDpSolutionId ","
+                    attrValue ":"
+                    "},{"
+                    attrName ":"
+                    productType ","
+                    attrValue ":"
+                    10 "}]}"
+                }
+            },
+            "customerInfo": {
+                "accountId": 1960744,
+                "contractId": "5682502",
+                "customerId": 1000154123,
+                "customerProductId": "",
+                "mainAccountId": 1960744
+            },
+            "extraData": {
+                "no_discount_amount": "0",
+                "sell_price": "10900",
+                "pay_amount": "10400"
+            },
+            "priceInfo": {
+                "commissionRate": "0.006",
+                "marketPrice": null,
+                "marketPriceCurrency": null,
+                "priceInfo": null,
+                "sellingPrice": null,
+                "sellingPriceCurrency": null,
+                "settlementPrice": null,
+                "settlementPriceCurrency": null
+            },
+            "ruleInfo": {
+                "bookRule": "null",
+                "changeRule": null,
+                "confirmRule": null,
+                "guaranteeRule": null,
+                "orderCloseRule": null,
+                "refundRule": null,
+                "salePlatformList": null,
+                "serviceRule": null,
+                "useRule": "{"
+                scopeDesc ":null,"
+                rangeType ":0,"
+                useTime ":[{"
+                startTime ":"
+                00: 00 ","
+                endTime ":"
+                24: 00 "}],"
+                holidayAvailable ":1,"
+                noUseWeekday ":null}",
+                "skuPoiList": [{
+                        "cityId": 0,
+                        "poiId": 262875,
+                        "usable": true,
+                        "visible": true
+                    },
+                    {
+                        "cityId": 0,
+                        "poiId": 319136,
+                        "usable": true,
+                        "visible": true
+                    },
+                    {
+                        "cityId": 0,
+                        "poiId": 41169004,
+                        "usable": true,
+                        "visible": true
+                    }
+                ]
+            }
+        }],
+        "orderPaymentList": [{
+            "buyerId": "349536427",
+            "extraData": null,
+            "orderId": "4800841615889060219",
+            "orderPaymentId": "4800841615889060219MDF31",
+            "payBatchNo": 1,
+            "payChannel": 1,
+            "paymentId": "1F1804KMDF303791",
+            "status": 3,
+            "totalAmount": "10900",
+            "orderMerchantNoDTO": {
+                "iphPayMerchantNo": "1020400002",
+                "subIphPayMerchantName": null,
+                "subIphPayMerchantNo": "12000027600987"
+            },
+            "orderPaymentDetailList": [{
+                    "amount": "500",
+                    "amountDetailType": 15,
+                    "amountPayType": 1,
+                    "amountType": 51,
+                    "buyerId": "349536427",
+                    "consumeItemAmountSplitDTOList": null,
+                    "count": null,
+                    "iphPayMerchantNo": null,
+                    "itemAmountSplitMode": 1,
+                    "lockStatus": null,
+                    "merchantSubAmount": "500",
+                    "orderId": "4800841615889060219",
+                    "orderPaymentDetailId": "4800841615889060219MDF311K01",
+                    "orderPaymentId": "4800841615889060219MDF31",
+                    "outerId": "4_2266089",
+                    "paymentDetailId": "1F1804KMDF3037911K02",
+                    "paymentDetailOriginTrace": null,
+                    "platformSubAmount": "0",
+                    "receiptId": "576460752344849056",
+                    "restMerchantAmount": "0",
+                    "restPlatformAmount": "0",
+                    "status": 3,
+                    "subIphPayMerchantNo": null,
+                    "successTime": "2020-01-07 11:53:08",
+                    "totalRestAmount": "0",
+                    "extData": {
+                        "PROMO": "{"
+                        amount ":0,"
+                        promoToolType ":0,"
+                        promotionId ":"
+                        4 _2266089 ","
+                        promotionSubType ":15,"
+                        promotionType ":1}",
+                        "PROMOTION_CHECK_DETAIL": "{"
+                        deductionAmount ":"
+                        500 ","
+                        deductionIsEnable ":true,"
+                        deductionMinConsumption ":"
+                        10000 ","
+                        deductionPandora ":{"
+                        pandoraDiscountType ":0,"
+                        pandoraPromotionType ":3,"
+                        pandoraTemporaryCommissionRate ":"
+                        0.0 "},"
+                        deductionReduceTimes ":4,"
+                        deductionRemainStock ":"
+                        0 ","
+                        deductionUserMaxBuyTimes ":0,"
+                        deductionUserRemainBuyTimes ":0,"
+                        maitonDiscountRatio ":"
+                        0.0 ","
+                        maitonDiscountType ":1,"
+                        maitonLimitType ":1,"
+                        originProxyApiPandoraJSON ":" {\\ "costType\\": 0, \\ "discountType\\": 0, \\ "mobDisplayPrice\\": 0, \\ "pandoraBearerInfoList\\": [], \\ "pandoraBearerInfoListIterator\\": [], \\ "pandoraBearerInfoListSize\\": 0, \\ "promotionType\\": 0, \\ "setActiveName\\": false, \\ "setCostType\\": false, \\ "setDetailShow\\": false, \\ "setDiscountType\\": false, \\ "setListShow\\": false, \\ "setMobDisplayPrice\\": false, \\ "setMobOrderShowTitle\\": false, \\ "setOrderShow\\": false, \\ "setPandoraBearerInfoList\\": true, \\ "setPromotionType\\": false, \\ "setTag\\": false }
+                        ","
+                        pandoraBearerInfoList ":[]}",
+                        "USE_STAGE_PREPAY": "0",
+                        "PROMOTION_ACTIVITY_ID": "4_154675",
+                        "PROMOTION_ACTIVITY_NAME": "团结湖/六里屯/长虹桥"
+                    },
+                    "itemAmountSplitDTOList": [{
+                        "iphPayMerchantNo": null,
+                        "merchantSubAmount": "500",
+                        "orderId": "4800841615889060219",
+                        "orderItemCount": "1",
+                        "orderItemId": "288230404798531963",
+                        "partnerId": null,
+                        "platformSubAmount": "0",
+                        "subIphPayMerchantNo": null,
+                        "totalAmount": "500",
+                        "reduceDetail": {
+                            "cashPayBackChannel": null,
+                            "cashPayBackMoney": "null",
+                            "cashPayBackOpportunity": null,
+                            "coupon": null,
+                            "giftCouponOpportunity": null,
+                            "groupReduceAmount": "null",
+                            "pointReduceAmount": "null",
+                            "reductionAmount": null,
+                            "reductionMinConsumption": null,
+                            "giftCouponDTOList": []
+                        }
+                    }]
+                },
+                {
+                    "amount": "10400",
+                    "amountDetailType": 1100,
+                    "amountPayType": 1,
+                    "amountType": 1,
+                    "buyerId": "349536427",
+                    "consumeItemAmountSplitDTOList": null,
+                    "count": null,
+                    "iphPayMerchantNo": "1020400002",
+                    "itemAmountSplitMode": 1,
+                    "lockStatus": null,
+                    "merchantSubAmount": "0",
+                    "orderId": "4800841615889060219",
+                    "orderPaymentDetailId": "4800841615889060219MDF310102",
+                    "orderPaymentId": "4800841615889060219MDF31",
+                    "outerId": "",
+                    "paymentDetailId": "1F1804KMDF3037910103",
+                    "paymentDetailOriginTrace": null,
+                    "platformSubAmount": "0",
+                    "receiptId": "20010710100000000002722989651109",
+                    "restMerchantAmount": "0",
+                    "restPlatformAmount": "0",
+                    "status": 3,
+                    "subIphPayMerchantNo": "12000027600987",
+                    "successTime": "2020-01-07 11:53:08",
+                    "totalRestAmount": "0",
+                    "extData": {
+                        "USE_STAGE_PREPAY": "0",
+                        "SUB_SELLER_NAME": "眉州东坡餐饮管理（北京）有限公司"
+                    },
+                    "itemAmountSplitDTOList": []
+                }
+            ]
+        }],
+        "orderPaymentRelationList": [{
+            "orderId": "4800841615889060219",
+            "orderPaymentId": "4800841615889060219MDF31",
+            "payBatch": 1,
+            "paymentId": "1F1804KMDF303791",
+            "status": 1,
+            "successTime": "2020-01-07 11:53:08",
+            "totalAmount": "10900"
+        }],
+        "orderPreAmountDetailList": [{
+                "amount": "500",
+                "amountDetailType": 15,
+                "amountPayType": 1,
+                "amountType": 51,
+                "buyerId": null,
+                "count": 1,
+                "itemAmountSplitMode": 1,
+                "merchantSubAmount": "500",
+                "needLock": 0,
+                "orderId": "4800841615889060219",
+                "outerId": "4_2266089",
+                "payBatchNo": 1,
+                "paymentDetailOriginTrace": null,
+                "platformSubAmount": "0",
+                "extData": {
+                    "PROMO": "{"
+                    amount ":0,"
+                    promoToolType ":0,"
+                    promotionId ":"
+                    4 _2266089 ","
+                    promotionSubType ":15,"
+                    promotionType ":1}",
+                    "PROMOTION_CHECK_DETAIL": "{"
+                    deductionAmount ":"
+                    500 ","
+                    deductionIsEnable ":true,"
+                    deductionMinConsumption ":"
+                    10000 ","
+                    deductionPandora ":{"
+                    pandoraDiscountType ":0,"
+                    pandoraPromotionType ":3,"
+                    pandoraTemporaryCommissionRate ":"
+                    0.0 "},"
+                    deductionReduceTimes ":4,"
+                    deductionRemainStock ":"
+                    0 ","
+                    deductionUserMaxBuyTimes ":0,"
+                    deductionUserRemainBuyTimes ":0,"
+                    maitonDiscountRatio ":"
+                    0.0 ","
+                    maitonDiscountType ":1,"
+                    maitonLimitType ":1,"
+                    originProxyApiPandoraJSON ":" {\\ "costType\\": 0, \\ "discountType\\": 0, \\ "mobDisplayPrice\\": 0, \\ "pandoraBearerInfoList\\": [], \\ "pandoraBearerInfoListIterator\\": [], \\ "pandoraBearerInfoListSize\\": 0, \\ "promotionType\\": 0, \\ "setActiveName\\": false, \\ "setCostType\\": false, \\ "setDetailShow\\": false, \\ "setDiscountType\\": false, \\ "setListShow\\": false, \\ "setMobDisplayPrice\\": false, \\ "setMobOrderShowTitle\\": false, \\ "setOrderShow\\": false, \\ "setPandoraBearerInfoList\\": true, \\ "setPromotionType\\": false, \\ "setTag\\": false }
+                    ","
+                    pandoraBearerInfoList ":[]}",
+                    "USE_STAGE_PREPAY": "0",
+                    "PROMOTION_ACTIVITY_ID": "4_154675",
+                    "PROMOTION_ACTIVITY_NAME": "团结湖/六里屯/长虹桥"
+                },
+                "itemAmountSplitDTOList": [{
+                    "iphPayMerchantNo": null,
+                    "merchantSubAmount": "500",
+                    "orderId": "4800841615889060219",
+                    "orderItemCount": "1",
+                    "orderItemId": "288230404798531963",
+                    "partnerId": null,
+                    "platformSubAmount": "0",
+                    "subIphPayMerchantNo": null,
+                    "totalAmount": "500",
+                    "reduceDetail": {
+                        "cashPayBackChannel": null,
+                        "cashPayBackMoney": "null",
+                        "cashPayBackOpportunity": null,
+                        "coupon": null,
+                        "giftCouponOpportunity": null,
+                        "groupReduceAmount": "null",
+                        "pointReduceAmount": "null",
+                        "reductionAmount": null,
+                        "reductionMinConsumption": null,
+                        "giftCouponDTOList": []
+                    }
+                }]
+            },
+            {
+                "amount": "10400",
+                "amountDetailType": 1100,
+                "amountPayType": 1,
+                "amountType": 1,
+                "buyerId": null,
+                "count": 0,
+                "itemAmountSplitMode": 1,
+                "merchantSubAmount": "0",
+                "needLock": 0,
+                "orderId": "4800841615889060219",
+                "outerId": "",
+                "payBatchNo": 1,
+                "paymentDetailOriginTrace": null,
+                "platformSubAmount": "0",
+                "extData": {
+                    "USE_STAGE_PREPAY": "0",
+                    "SUB_SELLER_NAME": "眉州东坡餐饮管理（北京）有限公司"
+                },
+                "itemAmountSplitDTOList": [{
+                    "iphPayMerchantNo": "1020400002",
+                    "merchantSubAmount": "0",
+                    "orderId": "4800841615889060219",
+                    "orderItemCount": "1",
+                    "orderItemId": "",
+                    "partnerId": "2016012000000001",
+                    "platformSubAmount": "0",
+                    "reduceDetail": null,
+                    "subIphPayMerchantNo": "12000027600987",
+                    "totalAmount": "10400"
+                }]
+            }
+        ],
+        "paymentDetailAccountBalanceList": [{
+                "amountType": 51,
+                "balance": "0",
+                "customerBalance": "0",
+                "orderPaymentDetailId": "4800841615889060219MDF311K01",
+                "platformBalance": "0"
+            },
+            {
+                "amountType": 1,
+                "balance": "0",
+                "customerBalance": "0",
+                "orderPaymentDetailId": "4800841615889060219MDF310102",
+                "platformBalance": "0"
+            }
+        ],
+        "relationPersonList": []
+    }
+}

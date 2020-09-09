@@ -28,12 +28,8 @@
         },
         {
             "id": "learn",
-            "subtitle": "学习",
+            "subtitle": "计算机类",
             "nav": [{
-                    "name": "螺丝钉研报",
-                    "link": "https://xueqiu.com/u/3079173340/"
-                },
-                {
                     "name": "github重构",
                     "link": "https://github.com/phodal/migration/"
                 },
@@ -44,13 +40,20 @@
                 {
                     "name": "五分钟算法",
                     "link": "https://www.cxyxiaowu.com/"
+                },
+                {
+                    "name": "infoq",
+                    "link": "https: //www.infoq.cn/"
                 }
             ]
         },
         {
-            "id": "famous",
-            "subtitle": "名人关注",
+            "id": "finance",
+            "subtitle": "财经类",
             "nav": [{
+                "name": "螺丝钉研报",
+                "link": "https://xueqiu.com/u/3079173340/"
+            }, {
                 "name": "香帅（唐涯）",
                 "link": "https://www.chainnews.com/u/130350048600.htm"
             }]
